@@ -19,3 +19,4 @@ https://stackoverflow.com/questions/1518522/find-the-most-common-element-in-a-li
 https://www.geeksforgeeks.org/python-statistics-mean-function/
 https://www.programiz.com/python-programming/methods/built-in/divmod
 
+This project was created for a Udacity class: www.udacity.com
